@@ -116,6 +116,7 @@ section {
   padding-left: 24px;
   padding-bottom: 32px;
   padding-top: 8px;
+  flex-grow: 1;
 }
 .top-bottom-section .image {
   display: flex;
@@ -124,4 +125,8 @@ section {
   font-size: 24px;
   font-weight: 400;
   margin-bottom: 24px;
+}
+.top-bottom-section {
+  display: flex;
+  margin-bottom: 32px;
 }
