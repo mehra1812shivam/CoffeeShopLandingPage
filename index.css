@@ -8,6 +8,7 @@ body {
 header {
   height: 101px;
   box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  position: relative;
 }
 .header-container {
   max-width: 1440px;
@@ -84,4 +85,7 @@ header {
 .join-now:hover {
   border-color: rgba(0, 0, 0, 0.7);
   background-color: rgba(0, 0, 0, 0.7);
+}
+a {
+  color: black;
 }

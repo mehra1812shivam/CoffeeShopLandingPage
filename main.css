@@ -1,0 +1,19 @@
+.main-container {
+  max-width: 1440px;
+  margin: 0 auto;
+  /* z-index: -1; */
+}
+
+.announcements {
+  display: flex;
+  justify-content: center;
+  background-color: #a7eeca;
+}
+.announcements span {
+  padding-top: 3.2rem;
+  padding-bottom: 3.2rem;
+  max-width: 60%;
+  font-size: 19px;
+  line-height: 1.75;
+  font-weight: 500;
+}
